@@ -6,4 +6,4 @@ echo chekcing without double quote
 echo with and without doublequote are returing the same values
 
 
-echo Ram\nShobi\nMithu\nYazhu
+echo Ram \n Shobi \n Mithu \n Yazhu
