@@ -6,4 +6,4 @@ echo chekcing without double quote
 echo with and without doublequote are returing the same values
 
 
-echo -e "\e[31m Ram \e[0m \n \e[32mShobi \e[0m \nMithu\nYazhu"
+echo -e "\e[31mRam \e[0m \n \e[32mShobi \e[0m \n\e[33mMithu\e[0m\n\e[36mYazhu\e[0m]"
