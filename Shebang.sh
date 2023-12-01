@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # shebang notation 
-echo "welcome to shell scripting"
+echo "[35m welcome to shell scripting [0m"
 echo chekcing without double quote 
 echo with and without doublequote are returing the same values
 
