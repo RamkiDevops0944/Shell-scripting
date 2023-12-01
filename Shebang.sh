@@ -6,4 +6,4 @@ echo chekcing without double quote
 echo with and without doublequote are returing the same values
 
 
-echo -e "Ram \n Shobi \n Mithu \n Yazhu"
+echo -e "Ram\nShobi\nMithu\nYazhu"
